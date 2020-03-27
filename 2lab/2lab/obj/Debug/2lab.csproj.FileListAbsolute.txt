@@ -1,0 +1,75 @@
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\bin\Debug\2lab.exe.config
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\bin\Debug\2lab.exe
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\bin\Debug\2lab.pdb
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\obj\Debug\2lab.csprojAssemblyReference.cache
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\obj\Debug\MainWindow.g.cs
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\obj\Debug\App.g.cs
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\obj\Debug\2lab_MarkupCompile.cache
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\obj\Debug\2lab_MarkupCompile.lref
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\obj\Debug\MainWindow.baml
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\obj\Debug\2lab.g.resources
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\obj\Debug\_2lab.Properties.Resources.resources
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\obj\Debug\2lab.csproj.GenerateResource.cache
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\obj\Debug\2lab.csproj.CoreCompileInputs.cache
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\obj\Debug\2lab.exe
+C:\Users\Vokamrecom-PC\source\repos\2lab\2lab\obj\Debug\2lab.pdb
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\bin\Debug\2lab.exe.config
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\bin\Debug\2lab.exe
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\bin\Debug\2lab.pdb
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\obj\Debug\2lab.csprojAssemblyReference.cache
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\obj\Debug\MainWindow.g.cs
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\obj\Debug\App.g.cs
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\obj\Debug\2lab_MarkupCompile.cache
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\obj\Debug\2lab_MarkupCompile.lref
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\obj\Debug\MainWindow.baml
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\obj\Debug\2lab.g.resources
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\obj\Debug\_2lab.Properties.Resources.resources
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\obj\Debug\2lab.csproj.GenerateResource.cache
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\obj\Debug\2lab.csproj.CoreCompileInputs.cache
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\obj\Debug\2lab.exe
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\лабы\2lab\2lab\obj\Debug\2lab.pdb
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\bin\Debug\2lab.exe.config
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\bin\Debug\2lab.exe
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\bin\Debug\2lab.pdb
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\obj\Debug\2lab.csprojAssemblyReference.cache
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\obj\Debug\MainWindow.g.cs
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\obj\Debug\App.g.cs
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\obj\Debug\2lab_MarkupCompile.cache
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\obj\Debug\2lab_MarkupCompile.lref
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\obj\Debug\MainWindow.baml
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\obj\Debug\2lab.g.resources
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\obj\Debug\_2lab.Properties.Resources.resources
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\obj\Debug\2lab.csproj.GenerateResource.cache
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\obj\Debug\2lab.csproj.CoreCompileInputs.cache
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\obj\Debug\2lab.exe
+D:\Кирилл\Универ\Базы данных Программирование и безопасность баз данных Web-приложений - 3 курс\git\database-project\2lab\2lab\obj\Debug\2lab.pdb
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\bin\Debug\2lab.exe.config
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\bin\Debug\2lab.exe
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\bin\Debug\2lab.pdb
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab.csprojAssemblyReference.cache
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\MainWindow.g.cs
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\App.g.cs
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab_MarkupCompile.cache
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab_MarkupCompile.lref
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\MainWindow.baml
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab.g.resources
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\_2lab.Properties.Resources.resources
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab.csproj.GenerateResource.cache
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab.exe
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab.pdb
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\bin\Debug\2lab.exe.config
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\bin\Debug\2lab.exe
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\bin\Debug\2lab.pdb
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab.csprojAssemblyReference.cache
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\MainWindow.g.cs
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\App.g.cs
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab_MarkupCompile.cache
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab_MarkupCompile.lref
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\MainWindow.baml
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab.g.resources
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\_2lab.Properties.Resources.resources
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab.csproj.GenerateResource.cache
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab.csproj.CoreCompileInputs.cache
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab.exe
+C:\University\3 курс\5 сем\Help\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\2lab\2lab\obj\Debug\2lab.pdb
